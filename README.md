@@ -1,3 +1,3 @@
-# NeuroMoT
-Official implemtation of NeuroMoT
+# NeuroAction
+Official implemtation of NeuroAction
 To be continued....
